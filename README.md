@@ -1,5 +1,5 @@
 # ComplexNumbers
-A code that can multiply an infinite number of complex numbers using the input command
+A Python code that can multiply an infinite number of complex numbers using the input command
 ```python
 import cmath
 
