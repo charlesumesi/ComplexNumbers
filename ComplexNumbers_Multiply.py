@@ -1,15 +1,15 @@
 # -*- coding: utf-8 -*-
 """
 Created on 16 Feb 2020
-
-@author: Charles Umesi
+Name: ComplexNumbers_Multiply.py
+Purpose: Can multiply an infinite number of complex numbers
+@author: Charles Umesi (charlesumesi)
 """
 
 import cmath
 
 def multiply_complex():
-    '''Multiplies an infinite number of complex numbers'''
-    
+   
     # Compile one list of all numbers and complex numbers to be multiplied
     a = int(input('How many numbers and complex numbers are you multiplying? : '))
     b = "Enter one real and its corresponding imaginary part in the format R,I\n(for absent real or imaginary part, enter '0', as in R,0 or 0,I) : "
